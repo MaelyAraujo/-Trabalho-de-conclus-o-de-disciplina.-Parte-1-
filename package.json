@@ -1,0 +1,11 @@
+{
+  "name": "servico-de-pagamento-pos",
+  "version": "1.0.0",
+  "main": "src/ServicoDePagamento.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  }
+}
